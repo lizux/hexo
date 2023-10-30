@@ -4,7 +4,7 @@
     "private": true,
     "scripts": {
         "start": "hexo server -g",
-        "deploy": "hexo deploy"
+        "deploy": "hexo deploy -g"
     },
     "hexo": {
         "version": "6.3.0"
